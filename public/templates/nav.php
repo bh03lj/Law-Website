@@ -6,7 +6,7 @@
             <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="">Ofertas<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a href="ofertasEmprego">Emprego</a></li>
+                    <li><a href="ofertasEmprego.php">Emprego</a></li>
                     <li><a href="ofertasFormativas.php">Formativa</a></li>
                 </ul>
             </li>
